@@ -6,7 +6,7 @@ Use the included files and instructions to download the videos of any Lynda Cour
 <h3>Instructions:</h3>
 
 <ul>
-<li>This script is still in its early stages. It needs some TLC to work.</li>
+<li>This is still in its early stages. It needs some TLC to work.</li>
 <li>If you have not already, navigate to the lynda page that contains all the videos you want to download.</li>
 <li>Open the chrome extension "HTTP Trace" and leave it open in the background.</li>
 <li>Run the included script (clickVideos.js) on the page using the console tab in chrome developer tools.</li>
