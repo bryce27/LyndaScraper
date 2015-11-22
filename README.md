@@ -1,9 +1,9 @@
-LyndaScraper
+<h1>LyndaScraper</h1>
 
 Use the included files and instructions to download the videos of any Lynda Course.
 
 
-Instructions:
+<h3>Instructions:</h3>
 
 This script is still in its early stages. It needs some TLC to work.
 
