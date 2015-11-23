@@ -10,7 +10,7 @@ function playVideos() {
     setTimeout(function () {
         clickPlay();
         playVideos();
-    }, 10000);
+    }, 5000); // Change this value to speed up or slow down the time interval
 }
 
 playVideos();
